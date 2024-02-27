@@ -106,3 +106,4 @@ public static class Fights
     }
 }
 // moet nog kijken hoe de speler ook echt stopt met het spel
+ 
